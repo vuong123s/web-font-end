@@ -1,0 +1,15 @@
+@media (max-width: 810px){
+	.content{
+		display: block;
+		text-align: center;
+	}
+	.b{
+		text-align: center;
+	}
+}
+
+@media(max-width: 975px){
+	.navbar{
+		height: 60px;
+	}
+}

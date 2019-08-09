@@ -1,0 +1,110 @@
+.content2{
+	padding: 50px 0;
+}
+
+.icon, .icon1{
+	display: flex;
+}
+.j i{
+	width: 75px;
+	height: 75px;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.j1 i{
+	width: 75px;
+	height: 75px;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;	
+}
+
+.j2 i{
+	width: 75px;
+	height: 75px;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;	
+}
+
+.j3 i{
+	width: 75px;
+	height: 75px;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;	
+}
+
+.fa-2x {
+	margin: auto;
+	background: #42424a;
+	border-radius: 5px;
+	color: #fff;
+}
+
+.j, .j1, .j2, .j3{
+	width: 600px;
+	height: 119px;
+	display: flex;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+.j, .j1, .j2, .j3 h4{
+	color: #556;
+	font-family: montserrat,sans-serif;
+}
+
+.j, .j1, .j2, .j3 p{
+	color: #667;
+	font-size: 14px;
+}
+
+.j:hover i{
+	background: #b54321;
+}
+
+.j:hover h4{
+	color: #b54321;
+}
+
+.j1:hover i{
+	background: #b54321;
+}
+
+.j1:hover h4{
+	color: #b54321;
+}
+
+
+.j2:hover i{
+	background: #b54321;
+}
+
+.j2:hover h4{
+	color: #b54321;
+}
+
+
+.j3:hover i{
+	background: #b54321;
+}
+
+.j3:hover h4{
+	color: #b54321;
+}
+
+
+.o{
+	font-size: 17px;
+}
+
+.d2 p{
+	font-family: montserrat,sans-serif;
+}
+
+.d1 p{
+	font-family: montserrat,sans-serif;
+}

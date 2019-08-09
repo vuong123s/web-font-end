@@ -1,0 +1,44 @@
+.content5{
+	height: 60px;
+	background-color: #424252;
+}
+
+.logo1 img{
+	height: 50px;
+	width: 50px;
+	line-height: 60px;
+	font-family: 'Inconsolata', monospace;
+}
+
+.logo1{
+	margin-right: 850px;
+}
+
+.v{
+	text-align: center;
+}
+
+.e, .e1, .e2, .e3, .e4{
+	padding: 0 10px;
+	color: #d2d2d9;
+}
+
+.e:hover{
+	color: #b54321;
+}
+
+.e1:hover{
+	color: #b54321;
+}
+
+.e2:hover{
+	color: #b54321;
+}
+
+.e3:hover{
+	color: #b54321;
+}
+
+.e4:hover{
+	color: #b54321;
+}

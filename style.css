@@ -1,0 +1,89 @@
+body{
+	height: 2500px;
+}
+.nav-link:hover{
+	color: rgb(255, 60, 0) !important;
+}
+
+.navbar{
+	height: 50px;
+	background: rgba(0 ,0 ,0 ,0.25) !important;
+	
+}
+
+.navbar-brand{
+	color: #fff !important;
+}
+
+.nav-link{
+	color: #fff !important;
+	font-size: 16px;
+}
+
+.style-button{
+	color: rgb(255, 90, 0);
+	border: solid 1px rgb(255, 90, 0);
+}
+
+.style-button:hover{
+	background: #b54321;
+	color: #fff;
+	border: none;
+}
+
+.style-button:visited{
+	background: #b54321;
+	color: #fff;
+	border: none;
+}
+
+.style{
+	background: #303539;
+	color: #fff;
+	display: flex;
+	padding-left: 210px;
+}
+
+.logo img{
+	height: 50px;
+}
+
+.logo{
+	font-family: 'Inconsolata', monospace;
+	font-size: 22px;
+	text-transform: capitalize rgb(255, 80, 0);
+	padding-left: 220px;
+}
+
+.style a{
+	padding: 10px 15px;
+	color: #d2d6da;
+	font-size: 12px;
+}
+
+.style a:hover{
+	text-decoration: none;
+	color: #b54321;
+}
+
+.style1{
+	margin-left: auto;
+	padding-right: 210px;
+}
+
+.style1 a i{
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+
+.navbar-nav{
+	margin-left: 37%;
+}
+
+.navbar{
+	padding-right: 200px;
+}
+
+.o{
+	text-align: left;
+}

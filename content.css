@@ -1,0 +1,60 @@
+.content i{
+	width: 56px;
+	height: 57px;
+}
+
+.content{
+	display: flex;
+	justify-content: center;
+	padding-top: 80px;
+}
+
+.c {
+	font-size: 13px;
+	font-family: source sans pro,helvetica neue,Helvetica,Arial,sans-serif;
+	color: #667;
+}
+
+.b{
+	font-size: 16px;
+	font-family: montserrat,sans-serif;
+	color: #556;
+}
+
+.a i{
+	margin-left: 46%
+}
+
+.a1 i{
+	margin-left: 43.8%
+}
+
+.a2 i{
+	margin-left: 42.5%
+}
+
+.c{
+	text-align: center;	
+}
+
+.b p{
+	text-align: center;
+}
+
+.a:hover i{
+	color: #b54321;
+}
+
+.a1:hover i{
+	color: #b54321;
+}
+
+.a2:hover i{
+	color: #b54321;
+}
+
+.a , .a1 , .a2{
+	height: 176px;
+	width: 400px;
+	padding: 0 30px;
+}
